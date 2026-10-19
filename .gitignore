@@ -1,0 +1,31 @@
+# Dataset & model (terlalu besar untuk GitHub)
+data/*
+!data/README.md
+!data/splits.csv
+*.zip
+*.pt
+*.pth
+*.onnx
+checkpoints/
+*.safetensors
+
+# Hasil build (dibuat ulang oleh notebook 04 / scripts/build_space.py; model ada di Hugging Face Hub)
+export/
+space_build/
+
+# Rahasia
+.env
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+__MACOSX/

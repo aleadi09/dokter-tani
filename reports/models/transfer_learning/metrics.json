@@ -1,0 +1,27 @@
+{
+  "final_model": "efficientnet_b0",
+  "compare": [
+    {
+      "model": "baseline_cnn",
+      "params_jt": 1.2,
+      "val_macro_f1": 0.9616,
+      "test_accuracy": 0.9661,
+      "test_macro_f1": 0.968,
+      "recall_terendah": 0.921,
+      "cpu_ms_per_foto": NaN,
+      "train_menit": 361.9,
+      "best_epoch": 24
+    },
+    {
+      "model": "efficientnet_b0",
+      "params_jt": 4.0,
+      "val_macro_f1": 0.9841,
+      "test_accuracy": 0.9831,
+      "test_macro_f1": 0.9845,
+      "recall_terendah": 0.974,
+      "cpu_ms_per_foto": 27.1,
+      "train_menit": 125.2,
+      "best_epoch": 11
+    }
+  ]
+}

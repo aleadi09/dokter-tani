@@ -1,0 +1,29 @@
+# Minggu 1: EDA
+numpy
+pandas
+matplotlib
+pillow
+imagehash
+scikit-learn
+tqdm
+ipykernel
+
+# Minggu 2: training (di laptop tanpa GPU cukup untuk uji kecil; training penuh di Colab)
+# torch
+# torchvision
+# timm
+# grad-cam
+
+# Minggu 3: ekspor & upload model (notebook 04, src/model/predictor.py)
+torch
+torchvision
+safetensors
+huggingface_hub
+
+# Minggu 3: RAG (baca PDF panduan penyakit + embedding)
+pymupdf
+sentence-transformers
+
+# Minggu 3: LLM & agent (API OpenAI-compatible, panggilan HTTP)
+openai
+requests

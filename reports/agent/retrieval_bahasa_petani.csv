@@ -1,0 +1,7 @@
+mode,petunjuk_kelas,Hit@1,Hit@3,MRR
+lexical,tidak,0.333,1.0,0.611
+lexical,ya,1.0,1.0,1.0
+dense,tidak,0.6,0.867,0.741
+dense,ya,1.0,1.0,1.0
+hybrid,tidak,0.867,1.0,0.933
+hybrid,ya,1.0,1.0,1.0

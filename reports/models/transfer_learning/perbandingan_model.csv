@@ -1,0 +1,3 @@
+model,params_jt,val_macro_f1,test_accuracy,test_macro_f1,recall_terendah,cpu_ms_per_foto,train_menit,best_epoch
+baseline_cnn,1.2,0.9616,0.9661,0.968,0.921,,361.9,24
+efficientnet_b0,4.0,0.9841,0.9831,0.9845,0.974,27.1,125.2,11

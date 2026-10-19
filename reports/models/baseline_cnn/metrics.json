@@ -1,0 +1,21 @@
+{
+  "experiment": "baseline_cnn",
+  "quick_mode": false,
+  "device": "cpu",
+  "params": 1174758,
+  "img_size": 224,
+  "epochs_run": 25,
+  "best_epoch": 24,
+  "val_macro_f1": 0.9616,
+  "test_accuracy": 0.9661,
+  "test_macro_f1": 0.968,
+  "test_recall_per_class": {
+    "Cercospora_Leaf_Spot": 0.921,
+    "Nutrition_Deficiency": 0.956,
+    "Bacterial_Spot": 0.973,
+    "Curl_Virus": 0.974,
+    "Healthy_Leaf": 0.991,
+    "Powdery_Mildew": 1.0
+  },
+  "train_minutes": 361.9
+}

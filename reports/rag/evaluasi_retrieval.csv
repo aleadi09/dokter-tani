@@ -1,0 +1,5 @@
+retriever,petunjuk_kelas,Hit@1,Hit@3,MRR
+TF-IDF,tidak,0.967,1.0,0.983
+TF-IDF,ya,1.0,1.0,1.0
+multilingual-e5-small,tidak,0.867,1.0,0.933
+multilingual-e5-small,ya,1.0,1.0,1.0

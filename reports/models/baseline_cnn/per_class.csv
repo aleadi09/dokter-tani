@@ -1,0 +1,7 @@
+,precision,recall,f1,support
+Cercospora_Leaf_Spot,0.996,0.921,0.957,254
+Nutrition_Deficiency,0.968,0.956,0.962,160
+Bacterial_Spot,0.978,0.973,0.976,185
+Curl_Virus,0.942,0.974,0.958,235
+Healthy_Leaf,0.944,0.991,0.967,221
+Powdery_Mildew,0.977,1.0,0.988,126

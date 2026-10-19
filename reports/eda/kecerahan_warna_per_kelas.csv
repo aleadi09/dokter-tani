@@ -1,0 +1,9 @@
+,brightness,brightness,green_ratio,green_ratio
+,mean,std,mean,std
+label,,,,
+Bacterial_Spot,217.476,25.444,0.35,0.014
+Cercospora_Leaf_Spot,171.326,19.993,0.361,0.011
+Curl_Virus,203.279,25.935,0.348,0.012
+Healthy_Leaf,211.44,26.032,0.349,0.009
+Nutrition_Deficiency,202.026,22.888,0.356,0.01
+Powdery_Mildew,220.673,11.703,0.347,0.007
